@@ -18,11 +18,11 @@
 
 ##
 
-<div align="center">
+<span align="center">
     <tr>
         <img src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none alt="Cyri Status">
     </tr>
-</div>
+</span>
 
 ##
 <div align="center">
