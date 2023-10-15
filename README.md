@@ -1,8 +1,19 @@
 ## 👋 Hi, I'm Cyri
 
+<span align="center">
+    <tr>
+        <img align="right" width="350" src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none alt="Cyri Status">
+    </tr>
+</span>
+
+᲼᲼᲼᲼᲼
+
 `🏫` **A young development student at [EDEN School](https://www.edenschool.fr).**
 
 `📍` **Based in Lyon (🇫🇷).**
+
+᲼᲼᲼᲼᲼
+
 
 ## 📖 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,14 +26,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=CyriGolo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
   </tr>
 </div>
-
-##
-
-<span align="center">
-    <tr>
-        <img src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none alt="Cyri Status">
-    </tr>
-</span>
 
 ##
 <div align="center">
