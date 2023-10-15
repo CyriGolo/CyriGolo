@@ -11,6 +11,6 @@
 ## 📊 My Stats
 <div align="center">
   <tr style="display:flex; justify-content: space-around">
-      <img src="https://github-readme-stats.vercel.app/api?username=CyriGolo&count_private=true&show_icons=true&theme=aura_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=CyriGolo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
   </tr>
 </div>
