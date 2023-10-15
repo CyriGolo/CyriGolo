@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Cyri
 
 `🏫` **A young development student at [EDEN School](https://www.edenschool.fr).**
+
 `📍` **Based in Lyon (🇫🇷).**
 
 ## 📖 Languages:
