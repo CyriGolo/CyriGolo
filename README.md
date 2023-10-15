@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Cyri
 <table>
     <tr>
-        <img width="350" align="right" src="https://lanyard.tompc.live/api/789074847669288960?bg=2b2d31&waveColor=a6c6ff&waveSpotifyColor=1db954&gradient=a6c6ff-a6c6ff&imgFit=cover"&border=none>
+        <img width="350" align="right" src="https://lanyard.tompc.live/api/789074847669288960?bg=2b2d31&waveColor=434091&waveSpotifyColor=1db954&gradient=a6c6ff-a6c6ff&imgFit=cover"&border=none>
     </tr>
 </table>
 
