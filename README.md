@@ -6,14 +6,13 @@
     </tr>
 </span>
 
-᲼᲼᲼᲼᲼
+᲼
 
 `🏫` **A young development student at [EDEN School](https://www.edenschool.fr).**
 
 `📍` **Based in Lyon (🇫🇷).**
 
-᲼᲼᲼᲼᲼
-
+᲼
 
 ## 📖 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
