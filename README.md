@@ -1,8 +1,17 @@
 ## 👋 Hi, I'm Cyri
+<table>
+    <tr>
+        <img width="350" align="right" src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none>
+    </tr>
+</table>
+
+᲼
 
 `🏫` **A young development student at [EDEN School](https://www.edenschool.fr).**
 
 `📍` **Based in Lyon (🇫🇷).**
+
+᲼
 
 ## 📖 Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,11 +27,6 @@
 
 ##
 
-<table>
-    <tr>
-        <img width="350" align="center" src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none>
-    </tr>
-</table>
 <div align="center">
   <picture>
     <source
