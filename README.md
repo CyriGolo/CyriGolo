@@ -25,7 +25,13 @@
   </tr>
 </div>
 
-##
+  <details>
+  <summary>wakatime</summary>
+
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  
+  </details>
 
 <div align="center">
   <picture>
