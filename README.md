@@ -15,3 +15,5 @@
       <img src="https://github-readme-stats.vercel.app/api?username=CyriGolo&count_private=true&show_icons=true&theme=tokyonight&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
   </tr>
 </div>
+
+![snake gif](https://github.com/cyrigolo/cyrigolo/blob/output/github-contribution-grid-snake.gif)
