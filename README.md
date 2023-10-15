@@ -20,7 +20,7 @@
 
 <table>
     <tr>
-        <img width="350" src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none>
+        <img width="350" align="center" src="https://lanyard.tompc.live/api/789074847669288960?bg=#2b2d31&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"&border=none>
     </tr>
 </table>
 <div align="center">
