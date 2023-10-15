@@ -25,8 +25,8 @@
   </tr>
 </div>
 
-  <details>
-  <summary>wakatime</summary>
+  <details align="center">
+  <summary>Wakatime Stats</summary>
 
   <!--START_SECTION:waka-->
 
