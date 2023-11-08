@@ -25,14 +25,6 @@
   </tr>
 </div>
 
-  <details align="center">
-  <summary>Wakatime Stats</summary>
-
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  
-  </details>
-
 <div align="center">
   <picture>
     <source
