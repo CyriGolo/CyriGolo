@@ -33,7 +33,7 @@
 
 ## 🖥️ Operating Systems:
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Kali](https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kali%20linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white)
 ![MacOS](https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=macos&logoColor=white)
 
