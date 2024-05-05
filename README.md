@@ -11,6 +11,8 @@
 
 `📍` **Based in Lyon (🇫🇷).**
 
+`🌐` **[Business Card](https://cyrigolo.github.io/cv/)**
+
 ᲼
 
 ## 📖 Languages:
