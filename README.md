@@ -14,32 +14,19 @@
 ᲼
 
 ## 📖 Languages:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
 ## 🪄 Frameworks \ Libs:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![Framworks](https://skillicons.dev/icons?i=vue,react,tailwind,symfony,sass)](https://skillicons.dev)
 
 ## 🔧 Development Tools:
-![Vscode](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=vscode,phpstorm,vite)](https://skillicons.dev)
 
 ## 🖥️ Operating Systems:
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white)
-![MacOS](https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=macos&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=windows,linux,debian)](https://skillicons.dev)
 
 ## 🖼️ Design Tools:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 
 ## 📊 My Stats
 <div align="center">
