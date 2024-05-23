@@ -19,7 +19,7 @@
 [![Languages](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
 
 ## 🪄 Frameworks \ Libs:
-[![Framworks](https://skillicons.dev/icons?i=vue,react,tailwind,symfony,sass)](https://skillicons.dev)
+[![Framworks](https://skillicons.dev/icons?i=vue,nuxt,react,tailwind,sass)](https://skillicons.dev)
 
 ## 🔧 Development Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,phpstorm,vite)](https://skillicons.dev)
