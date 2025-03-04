@@ -11,7 +11,7 @@
 
 `📍` **Based in Lyon (🇫🇷).**
 
-`🌐` **[Business Card](https://cyrigolo.github.io/cv/)**
+`🌐` **[Business Card](https://dpessin.tech/)**
 
 ᲼
 
